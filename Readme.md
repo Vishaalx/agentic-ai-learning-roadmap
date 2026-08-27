@@ -39,7 +39,7 @@ Work through the modules in order and check them off as you go. Each module list
 
 ## Module 1 — Programming & Data Foundations
 
-- [ ] Python — https://youtu.be/QGAuolgCTHE
+- [ ] Python — [https://youtu.be/QGAuolgCTHE](https://youtube.com/playlist?list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG&si=DT1fkwDgsmkZgskG)
 - [ ] SQL — https://youtu.be/IzyebUSMVa0
 - [ ] Async Python (asyncio) — https://realpython.com/async-io-python/
   - *Why:* Agents wait on tool calls and run sub-agents in parallel — async understanding matters early.
